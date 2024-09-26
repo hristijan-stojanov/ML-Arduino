@@ -1,7 +1,8 @@
-## ML Arduino
+# ML Arduino
 
-# Model
-![опис на сликата](model/onnx.PNG)
+## Model
+![model](model/onnx.PNG)
 
 
-# Schematic
+##Schematic
+![model](8.PNG)
