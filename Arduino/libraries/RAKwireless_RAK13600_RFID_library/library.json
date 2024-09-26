@@ -1,0 +1,32 @@
+{
+	"name": "RAKwireless RAK13600 RFID library",
+	"version": "1.0.1",
+	"keywords": [
+		"RFID",
+		"PN532",
+		"RAKWireless",
+		"WisBlock",
+		"RAK13600"
+	],
+	"description": "RAKWireless library for the RAK13600 RFID module with the PN532",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK13600-PN532"
+	},
+	"homepage": "https://rakwireless.com"
+}

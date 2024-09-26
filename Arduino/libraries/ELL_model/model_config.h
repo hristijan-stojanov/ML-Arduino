@@ -1,0 +1,20 @@
+---------------------------------------- */
+
+#ifndef USER_MODEL_CONFIG_H_
+#define USER_MODEL_CONFIG_H_
+
+#define MODEL_SOLUTION_ID_STR "85747"
+#define MODEL_INFERENCES_LIMIT 1800
+#define MODEL_ANOMALY_DETECTION 0
+#define MODEL_TASK_TYPE 2
+#define MODEL_QTYPE 2
+#define MODEL_FLOAT_SUPPORT 1
+
+#define MODEL_NEURONS_NUM 4
+#define MODEL_WEIGHTS_NUM 15
+#define MODEL_OUTPUTS_NUM 1
+
+#define OUTPUTS_LOG_SCALED 0
+#defineMODEL_OUTPUTS_QUANTIZED 0
+
+#endif /* USER_MODEL_CONFIG_H_ */
